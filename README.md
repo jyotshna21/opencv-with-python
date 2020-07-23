@@ -1,1 +1,1 @@
-#  Reading Image with opencv
+# Learning opencv with python
