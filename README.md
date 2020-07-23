@@ -1,1 +1,1 @@
-# Learning opencv with python
+# Learn opencv with python
